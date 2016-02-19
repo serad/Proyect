@@ -1,0 +1,3 @@
+#Ignoramos los modulos de nodejs
+/node_modules
+/public/librerias
